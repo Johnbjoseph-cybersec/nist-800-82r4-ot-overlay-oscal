@@ -1,0 +1,17 @@
+oscal-cli 3.2.0 built at 2026-05-14 23:19 from branch f0fb6d88aee55eccf1ff6bce5d4f17235aed01a4 (f0fb6d8) at https://github.com/metaschema-framework/oscal-cli
+Validating 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/NIST_SP-800-82r4-ipd_OT-overlay_LOW_profile.json' as JSON.
+The file 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/NIST_SP-800-82r4-ipd_OT-overlay_LOW_profile.json' is valid.
+Validating 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/resolved/NIST_SP-800-82r4-ipd_OT-overlay_LOW_resolved-profile_catalog.json' as JSON.
+The file 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/resolved/NIST_SP-800-82r4-ipd_OT-overlay_LOW_resolved-profile_catalog.json' is valid.
+Validating 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/NIST_SP-800-82r4-ipd_OT-overlay_MODERATE_profile.json' as JSON.
+The file 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/NIST_SP-800-82r4-ipd_OT-overlay_MODERATE_profile.json' is valid.
+Validating 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/resolved/NIST_SP-800-82r4-ipd_OT-overlay_MODERATE_resolved-profile_catalog.json' as JSON.
+The file 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/resolved/NIST_SP-800-82r4-ipd_OT-overlay_MODERATE_resolved-profile_catalog.json' is valid.
+Validating 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/NIST_SP-800-82r4-ipd_OT-overlay_HIGH_profile.json' as JSON.
+The file 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/NIST_SP-800-82r4-ipd_OT-overlay_HIGH_profile.json' is valid.
+Validating 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/resolved/NIST_SP-800-82r4-ipd_OT-overlay_HIGH_resolved-profile_catalog.json' as JSON.
+The file 'file:/Users/johnbommeravenijoseph/nist-800-82r4-ot-overlay-oscal/overlay/resolved/NIST_SP-800-82r4-ipd_OT-overlay_HIGH_resolved-profile_catalog.json' is valid.
+LOW: resolved catalog has 160 controls, overlay data has 160, 80 OT discussions: OK
+MODERATE: resolved catalog has 304 controls, overlay data has 304, 134 OT discussions: OK
+HIGH: resolved catalog has 387 controls, overlay data has 387, 156 OT discussions: OK
+exit=0
