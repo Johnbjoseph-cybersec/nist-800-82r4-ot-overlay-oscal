@@ -1,0 +1,10 @@
+{
+  "_comment": "Deliberately broken rows. AC-2 is valid; AC-2(99) does not exist; XZ-1 is not a family; AC-2(10) is withdrawn in SP 800-53r5.",
+  "rows": {
+    "AC-2": {"markers": {"LOW": "Select"}},
+    "AC-2(99)": {"markers": {"MOD": "Select"}},
+    "XZ-1": {"markers": {"HIGH": "Add"}},
+    "AC-2(10)": {"markers": {"HIGH": "Select"}}
+  },
+  "expect_bad": ["AC-2(99)", "XZ-1", "AC-2(10)"]
+}

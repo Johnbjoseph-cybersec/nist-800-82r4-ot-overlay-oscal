@@ -1,0 +1,168 @@
+{
+  "id_problems_r4": [],
+  "id_problems_r3": [],
+  "r4_summary_vs_detailed": [],
+  "r3_summary_vs_detailed": [],
+  "r4_detailed_vs_53B": [],
+  "r3_to_r4_marker_changes": [],
+  "bold_differs_across_columns": [],
+  "bold_without_discussion": [],
+  "discussion_without_bold": [],
+  "rationale_vs_add_remove": [],
+  "title_mismatches": [
+    {
+      "label": "AU-6",
+      "where": "detailed table, PDF p. 248",
+      "printed": "Audit Review, Analysis, and Reporting",
+      "sp800_53r5": "Audit Record Review, Analysis, and Reporting"
+    },
+    {
+      "label": "SC-15",
+      "where": "detailed table, PDF p. 298",
+      "printed": "Collaborative Computing Devices",
+      "sp800_53r5": "Collaborative Computing Devices and Applications"
+    }
+  ],
+  "subsection_numbering": [
+    {
+      "number": "E.7.3.2.",
+      "family_section": "E.7.3",
+      "ordinal": 2,
+      "family": "AU",
+      "line": 7181,
+      "page": 246,
+      "heading": "E.7.3.2. Tailoring Considerations for the Audit Family"
+    },
+    {
+      "number": "E.7.4.3.",
+      "family_section": "E.7.4",
+      "ordinal": 3,
+      "family": "CA",
+      "line": 7230,
+      "page": 250,
+      "heading": "E.7.4.3. Tailoring Considerations for the Security Assessment and Authorization Family"
+    },
+    {
+      "number": "E.7.5.4.",
+      "family_section": "E.7.5",
+      "ordinal": 4,
+      "family": "CM",
+      "line": 7304,
+      "page": 253,
+      "heading": "E.7.5.4. Tailoring Considerations for the Configuration Management Family"
+    },
+    {
+      "number": "E.7.6.5.",
+      "family_section": "E.7.6",
+      "ordinal": 5,
+      "family": "CP",
+      "line": 7372,
+      "page": 257,
+      "heading": "E.7.6.5. Tailoring Considerations for the Contingency Planning Family"
+    },
+    {
+      "number": "E.7.7.6.",
+      "family_section": "E.7.7",
+      "ordinal": 6,
+      "family": "IA",
+      "line": 7443,
+      "page": 262,
+      "heading": "E.7.7.6. Tailoring Considerations for the Identification and Authentication Family"
+    },
+    {
+      "number": "E.7.8.7.",
+      "family_section": "E.7.8",
+      "ordinal": 7,
+      "family": "IR",
+      "line": 7529,
+      "page": 266,
+      "heading": "E.7.8.7. Tailoring Considerations for the Incident Response Family"
+    },
+    {
+      "number": "E.7.9.8.",
+      "family_section": "E.7.9",
+      "ordinal": 8,
+      "family": "MA",
+      "line": 7558,
+      "page": 268,
+      "heading": "E.7.9.8. Tailoring Considerations for the Maintenance Family"
+    },
+    {
+      "number": "E.7.11.9.",
+      "family_section": "E.7.11",
+      "ordinal": 9,
+      "family": "PE",
+      "line": 7612,
+      "page": 272,
+      "heading": "E.7.11.9. Tailoring Considerations for the Physical and Environmental Protection Family"
+    },
+    {
+      "number": "E.7.13.10.",
+      "family_section": "E.7.13",
+      "ordinal": 10,
+      "family": "PM",
+      "line": 7726,
+      "page": 280,
+      "heading": "E.7.13.10. Characteristics of the Organization-Wide Information Security Program"
+    },
+    {
+      "number": "E.7.14.11.",
+      "family_section": "E.7.14",
+      "ordinal": 11,
+      "family": "PS",
+      "line": 7812,
+      "page": 287,
+      "heading": "E.7.14.11. Tailoring Considerations for the Personnel Security Family"
+    },
+    {
+      "number": "E.7.16.12.",
+      "family_section": "E.7.16",
+      "ordinal": 12,
+      "family": "SA",
+      "line": 7875,
+      "page": 291,
+      "heading": "E.7.16.12. Tailoring Considerations for the System and Services Acquisition Family"
+    },
+    {
+      "number": "E.7.17.13.",
+      "family_section": "E.7.17",
+      "ordinal": 13,
+      "family": "SC",
+      "line": 7939,
+      "page": 295,
+      "heading": "E.7.17.13. Tailoring Considerations for the System and Communications Protection Family"
+    },
+    {
+      "number": "E.7.18.14.",
+      "family_section": "E.7.18",
+      "ordinal": 14,
+      "family": "SI",
+      "line": 8078,
+      "page": 302,
+      "heading": "E.7.18.14. Tailoring Considerations for the System and Information Integrity Family"
+    }
+  ],
+  "counts": {
+    "LOW": {
+      "sp800_53b": 149,
+      "select": 149,
+      "add": 11,
+      "remove": 0,
+      "overlay": 160
+    },
+    "MOD": {
+      "sp800_53b": 287,
+      "select": 285,
+      "add": 19,
+      "remove": 2,
+      "overlay": 304
+    },
+    "HIGH": {
+      "sp800_53b": 370,
+      "select": 367,
+      "add": 20,
+      "remove": 3,
+      "overlay": 387
+    }
+  }
+}

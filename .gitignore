@@ -1,0 +1,5 @@
+sources/*.pdf
+sources/*.xlsx
+__pycache__/
+*.pyc
+.DS_Store
