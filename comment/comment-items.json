@@ -111,5 +111,6 @@
       "comment": "The comment template for this draft appears to be adapted from another publication: the worksheet is named \"Comments on Draft IR 8212\"; the line-number validation accepts only 0 to 1356 (starting line) and 0 to 1440 (ending line), while this draft's line numbers run past 8,000; the page drop-down list stops at page 60; and the section drop-down list ends at \"Appendix B\" and includes entries for an \"ISCMAx tool\". Commenters on Appendices E and F cannot enter valid references without triggering validation errors.",
       "proposed": "Update the template's worksheet name, line-number limits, and page and section lists to match SP 800-82r4 ipd, or remove those validations."
     }
-  ]
+  ],
+  "date": "13 November 2026"
 }

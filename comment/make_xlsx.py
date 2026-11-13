@@ -42,6 +42,7 @@ def main():
                     if n != 1:
                         raise SystemExit(f"template row {r} not found")
                 xml = xml.replace("Submitted by: ______________________", "Submitted by: " + escape(data["submitter"]))
+                xml = xml.replace("Date: ___________", "Date: " + escape(data.get("date", "___________")))
                 body = xml.encode("utf-8")
             zout.writestr(info, body)
     print(f"wrote {OUT.relative_to(ROOT)} with {len(rows)} comments")
